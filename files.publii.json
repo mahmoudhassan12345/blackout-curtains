@@ -112,17 +112,17 @@
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "9504ff6644e16e17c80d307917f10bba"
+        "md5": "3fc4b6fd9cbe3ea32bdf319ed1b613b8"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "82b9d988bf01dd3b85949b58d0a33cc5"
+        "md5": "80bd9521233de5a7ffa7f823a4d85c46"
     },
     {
         "path": "how-to-choose-the-ideal-office-carpet.html",
         "type": "file",
-        "md5": "65955a313b8a041eb22219eb56a8f828"
+        "md5": "70a4c3167065835753ae374b58ff13dd"
     },
     {
         "path": "index.html",
@@ -155,14 +155,89 @@
         "md5": false
     },
     {
+        "path": "/media/posts/1/Bedroom-Interior-Black-Theme-qz4giw8m8ho9uevbupt8abmcqv2dbnnxqad4xpv1xk.webp",
+        "type": "file",
+        "md5": "ebc1ee086078db79ad13489a0de60b89"
+    },
+    {
+        "path": "/media/posts/1/carpet-3.jpg",
+        "type": "file",
+        "md5": "12b3fca3613d9d19fc1f07351dad312a"
+    },
+    {
         "path": "media/posts/1/gallery",
         "type": "directory",
         "md5": false
     },
     {
+        "path": "/media/posts/1/gallery/Bedroom-Interior-Black-Theme-qz4giw8m8ho9uevbupt8abmcqv2dbnnxqad4xpv1xk.webp",
+        "type": "file",
+        "md5": "ebc1ee086078db79ad13489a0de60b89"
+    },
+    {
         "path": "media/posts/1/responsive",
         "type": "directory",
         "md5": false
+    },
+    {
+        "path": "/media/posts/1/responsive/Bedroom-Interior-Black-Theme-qz4giw8m8ho9uevbupt8abmcqv2dbnnxqad4xpv1xk-2xl.webp",
+        "type": "file",
+        "md5": "dc8e2a00abd73715913a392896eb512f"
+    },
+    {
+        "path": "/media/posts/1/responsive/Bedroom-Interior-Black-Theme-qz4giw8m8ho9uevbupt8abmcqv2dbnnxqad4xpv1xk-lg.webp",
+        "type": "file",
+        "md5": "dc8e2a00abd73715913a392896eb512f"
+    },
+    {
+        "path": "/media/posts/1/responsive/Bedroom-Interior-Black-Theme-qz4giw8m8ho9uevbupt8abmcqv2dbnnxqad4xpv1xk-md.webp",
+        "type": "file",
+        "md5": "dc8e2a00abd73715913a392896eb512f"
+    },
+    {
+        "path": "/media/posts/1/responsive/Bedroom-Interior-Black-Theme-qz4giw8m8ho9uevbupt8abmcqv2dbnnxqad4xpv1xk-sm.webp",
+        "type": "file",
+        "md5": "dc8e2a00abd73715913a392896eb512f"
+    },
+    {
+        "path": "/media/posts/1/responsive/Bedroom-Interior-Black-Theme-qz4giw8m8ho9uevbupt8abmcqv2dbnnxqad4xpv1xk-xl.webp",
+        "type": "file",
+        "md5": "dc8e2a00abd73715913a392896eb512f"
+    },
+    {
+        "path": "/media/posts/1/responsive/Bedroom-Interior-Black-Theme-qz4giw8m8ho9uevbupt8abmcqv2dbnnxqad4xpv1xk-xs.webp",
+        "type": "file",
+        "md5": "dc8e2a00abd73715913a392896eb512f"
+    },
+    {
+        "path": "/media/posts/1/responsive/carpet-3-2xl.jpg",
+        "type": "file",
+        "md5": "624b4b310d7a337a0c9bd573c5cd8bf2"
+    },
+    {
+        "path": "/media/posts/1/responsive/carpet-3-lg.jpg",
+        "type": "file",
+        "md5": "624b4b310d7a337a0c9bd573c5cd8bf2"
+    },
+    {
+        "path": "/media/posts/1/responsive/carpet-3-md.jpg",
+        "type": "file",
+        "md5": "624b4b310d7a337a0c9bd573c5cd8bf2"
+    },
+    {
+        "path": "/media/posts/1/responsive/carpet-3-sm.jpg",
+        "type": "file",
+        "md5": "4b2c493ce5721a32a13b0f111a05c8ba"
+    },
+    {
+        "path": "/media/posts/1/responsive/carpet-3-xl.jpg",
+        "type": "file",
+        "md5": "624b4b310d7a337a0c9bd573c5cd8bf2"
+    },
+    {
+        "path": "/media/posts/1/responsive/carpet-3-xs.jpg",
+        "type": "file",
+        "md5": "9764caa8a86bc14cc0042c8f85ce3e51"
     },
     {
         "path": "media/tags",
@@ -182,7 +257,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "a70bac6c09e871e69a2ba452776692b1"
+        "md5": "50c0a1e98950318e7dd442ad5c0b2cd0"
     },
     {
         "path": "sitemap.xsl",
