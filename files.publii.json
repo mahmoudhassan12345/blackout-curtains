@@ -125,11 +125,6 @@
         "md5": "dc3de2c300db902e671a245d26645c0b"
     },
     {
-        "path": "index.html",
-        "type": "file",
-        "md5": "88106c003635389dcdc3a1b7bea27cb1"
-    },
-    {
         "path": "media",
         "type": "directory",
         "md5": false
