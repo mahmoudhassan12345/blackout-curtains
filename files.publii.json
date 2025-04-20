@@ -2,7 +2,7 @@
     {
         "path": "404.html",
         "type": "file",
-        "md5": "e48d08657d4e3ddb0684e96fa89476a9"
+        "md5": "c36424a796b935eb97f2d35103eb0b19"
     },
     {
         "path": "assets",
@@ -107,27 +107,27 @@
     {
         "path": "/authors/mahmoud-hassan/index.html",
         "type": "file",
-        "md5": "be89b3b8105135fbfa897ac1c353a018"
+        "md5": "02a2a05e2311ed3b6bf9dde84e153ac7"
     },
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "3fc4b6fd9cbe3ea32bdf319ed1b613b8"
+        "md5": "8379ed2b8dc0f3b585e05f0578e9386f"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "80bd9521233de5a7ffa7f823a4d85c46"
+        "md5": "56ec33c34c8a9546c86d75c4cac60ae1"
     },
     {
         "path": "how-to-choose-the-ideal-office-carpet.html",
         "type": "file",
-        "md5": "70a4c3167065835753ae374b58ff13dd"
+        "md5": "28c7db5d1ca538b7d2fc7eeac8e2764b"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "96533714c4bbc6542d28833698180ff1"
+        "md5": "5d32330abc0d1e78749372b84d19639b"
     },
     {
         "path": "media",
@@ -250,6 +250,11 @@
         "md5": false
     },
     {
+        "path": "media/website/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
         "path": "robots.txt",
         "type": "file",
         "md5": "cec927743bc1a10387cf4a82bad03528"
@@ -257,7 +262,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "50c0a1e98950318e7dd442ad5c0b2cd0"
+        "md5": "370b931e263ae36d14d262c159d5b913"
     },
     {
         "path": "sitemap.xsl",
@@ -272,6 +277,6 @@
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "c0a32da47038cbb2b03ec2ff36d7b913"
+        "md5": "1f1ca81b891c2fa164ff5968db1ecb9a"
     }
 ]
